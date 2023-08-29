@@ -1,6 +1,5 @@
-# Quasar App (site)
+# Site-123milhas
 
-A Quasar Project
 
 ## Install the dependencies
 ```bash
